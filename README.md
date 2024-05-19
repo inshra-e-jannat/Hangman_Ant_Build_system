@@ -16,3 +16,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Roll No : 2k23/CSE/125
+Roll No : 2k23/CSE/58
+We wanted to update you on the progress of our project.We have developed a hangman game using java on visual studio code.
